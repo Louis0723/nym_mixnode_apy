@@ -7,7 +7,7 @@ function get_current_interval_details => current.json # https://validator.nymtec
 function get_mix_nodes_detailed => mixnode.json # https://validator.nymtech.net/api/v1/mixnodes/detailed
 ```
 
-## get mixnode activate 
+## get mixnode active status 
 * function get_rewarded_set 
 
 
