@@ -1,0 +1,9 @@
+{
+  "name": "nym_s",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "decimal.js": "^10.4.3"
+  }
+}
